@@ -1,0 +1,8 @@
+.header {
+  padding: 3rem calc((100vw - 720px) / 2);
+  width: 100%;
+
+  img + img {
+    margin-left: 10px;
+  }
+}
